@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://ist-42.github.io/photorama/gallery/"  
-  - JOURNAL: "https://ist-42.github.io/photorama/journal/"
-  - ABOUT: "https://ist-42.github.io/photorama/about/"
+  - GALLERY: "https://ist-42.github.io/PersonalWebsite/gallery/"  
+  - JOURNAL: "https://ist-42.github.io/PersonalWebsite/journal/"
+  - ABOUT: "https://ist-42.github.io/PersonalWebsite/about/"
 
 # All translation keys
 translations:
